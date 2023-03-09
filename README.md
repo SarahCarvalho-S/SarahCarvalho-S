@@ -1,4 +1,4 @@
-##  **oiie!  sou a Sarah, estudante de Front End** ## :fairy_man:
+##  **Oiie!  Sou a Sarah, estudante de Front End** ## :fairy_man:
 <p>
 Completei 18 anos, iniciei no mundo da programção recentemente. Estudo Programação Front End através de um projeto entre a Ford e o Senai. 
 Acredito que terei um experiência incrível :dizzy:.
